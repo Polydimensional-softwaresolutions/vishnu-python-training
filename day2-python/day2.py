@@ -1,5 +1,4 @@
 str = "pyThOn iS aMazInG"
-
-transformed = str.lower().capitalize()
-
-print("Transformed string:", transformed)
+a = str.lower()
+b=a.capitalize()
+print("Transformed string:", b)
